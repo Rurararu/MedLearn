@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useCourseStore } from '../store/courseStore';
 import { CourseContent } from '../components/CourseContent';
-import 'D:/3Kurs/1Sem/Kursova/program/project/css/style.css';
+import 'D:/3Kurs/1Sem/Kursova/program3/project/css/style.css';
 
 
 export function Course() {

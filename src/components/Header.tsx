@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Search, GraduationCap, User } from 'lucide-react';
 import { useAuthStore } from '../store/authStore';
 import { useSearchStore } from '../store/searchStore';
-import 'D:/3Kurs/1Sem/Kursova/program/project/css/style.css';
+import 'D:/3Kurs/1Sem/Kursova/program3/project/css/style.css';
 
 interface Course {
   id: string;

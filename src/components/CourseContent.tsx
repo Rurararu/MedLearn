@@ -1,6 +1,6 @@
 import React from 'react';
 import { Course } from '../types';
-  import 'D:/3Kurs/1Sem/Kursova/program/project/css/style.css';
+  import 'D:/3Kurs/1Sem/Kursova/program3/project/css/style.css';
 
 interface CourseContentProps {
   course: Course;

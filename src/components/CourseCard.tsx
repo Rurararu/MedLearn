@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Course } from '../types';
 import { ClockIcon, BookCheckIcon, UsersIcon } from 'lucide-react';
-import 'D:/3Kurs/1Sem/Kursova/program/project/css/style.css';
+import 'D:/3Kurs/1Sem/Kursova/program3/project/css/style.css';
 
 
 interface CourseCardProps {
