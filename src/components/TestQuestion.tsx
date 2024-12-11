@@ -1,6 +1,6 @@
 import React from 'react';
 import { Question } from '../types';
-import 'D:/3Kurs/1Sem/Kursova/program3/project/css/style.css';
+import '../css/style.css';
 
 
 interface TestQuestionProps {
