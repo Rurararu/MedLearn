@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "firstName": "Solomia",
+        "lastName": "Drebot",
+        "email": "solomiia.drebot.oi.2022@lpnu.ua",
+        "password": "111111",
+        "status": "student"
+      },
+      {
+        "id": "2",
+        "firstName": "Artem",
+        "lastName": "Kazarian",
+        "email": "artem.h.kazarian@lpnu.ua",
+        "password": "222222",
+        "status": "teacher"
+      },
+      {
+        "id": "3",
+        "firstName": "Admin",
+        "lastName": "Example",
+        "email": "dvf@gmail.com",
+        "password": "121212",
+        "status": "Researcher"
+      }
+    ]
+  }

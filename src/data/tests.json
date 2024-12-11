@@ -1,0 +1,1366 @@
+{
+    "tests": {
+      "1": {
+        "courseId": "1",
+        "questions": [
+  {
+    "id": 1,
+    "text": "Which of the following is NOT a function of the skeletal system?",
+    "options": [
+      "Protection of internal organs",
+      "Production of blood cells",
+      "Digestion of food",
+      "Support for muscles"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "text": "The study of muscles and their movements is called:",
+    "options": [
+      "Myology",
+      "Osteology",
+      "Neurology",
+      "Cardiology"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "text": "Which part of the nervous system controls involuntary actions?",
+    "options": [
+      "Central nervous system",
+      "Peripheral nervous system",
+      "Autonomic nervous system",
+      "Somatic nervous system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "text": "What is the primary function of red blood cells?",
+    "options": [
+      "Fight infections",
+      "Transport oxygen",
+      "Produce energy",
+      "Clot blood"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "text": "Which type of tissue connects muscles to bones?",
+    "options": [
+      "Cartilage",
+      "Ligaments",
+      "Tendons",
+      "Epithelial tissue"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "text": "The heart is part of which body system?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Cardiovascular system",
+      "Nervous system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "text": "Which organ is responsible for filtering blood in the urinary system?",
+    "options": [
+      "Liver",
+      "Kidneys",
+      "Stomach",
+      "Bladder"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "text": "Which muscle is primarily responsible for breathing?",
+    "options": [
+      "Pectoralis major",
+      "Diaphragm",
+      "Abdominal muscles",
+      "Intercostal muscles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "text": "What is the smallest structural unit of the body?",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "System"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "text": "Which system is responsible for hormone production?",
+    "options": [
+      "Nervous system",
+      "Endocrine system",
+      "Digestive system",
+      "Skeletal system"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "text": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Lymphatic vessels"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "text": "Which type of muscle is found in the walls of internal organs?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Voluntary muscle"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "text": "What is the primary function of the large intestine?",
+    "options": [
+      "Absorb nutrients",
+      "Store bile",
+      "Absorb water",
+      "Produce enzymes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "text": "Which organ is part of the central nervous system?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Stomach",
+      "Liver"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "text": "Which layer of skin contains sweat glands?",
+    "options": [
+      "Epidermis",
+      "Dermis",
+      "Hypodermis",
+      "Basal layer"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "text": "What is the primary role of the liver?",
+    "options": [
+      "Produce bile",
+      "Filter oxygen",
+      "Store red blood cells",
+      "Regulate heartbeat"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "text": "Which part of the skeletal system protects the brain?",
+    "options": [
+      "Spine",
+      "Rib cage",
+      "Pelvis",
+      "Cranium"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "text": "What is the main function of platelets in the blood?",
+    "options": [
+      "Transport nutrients",
+      "Fight infections",
+      "Aid in clotting",
+      "Carry oxygen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "text": "What is the primary function of the respiratory system?",
+    "options": [
+      "Transport nutrients",
+      "Exchange gases",
+      "Regulate temperature",
+      "Filter toxins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "text": "Which of the following is a function of the lymphatic system?",
+    "options": [
+      "Regulate hormones",
+      "Absorb dietary fats",
+      "Control reflexes",
+      "Filter toxins through the liver"
+    ],
+    "correctAnswer": 1
+  }
+]
+      },
+
+
+
+
+      "2": {
+        "courseId": "2",
+        "questions": [
+  {
+    "id": 1,
+    "text": "Which of the following biomolecules serves as the primary source of energy in cells?",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Lipids",
+      "Nucleic acids"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "text": "What is the role of enzymes in biochemical reactions?",
+    "options": [
+      "Act as structural components",
+      "Store genetic information",
+      "Speed up chemical reactions by lowering activation energy",
+      "Provide energy for reactions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "text": "Which metabolic pathway generates the most ATP?",
+    "options": [
+      "Glycolysis",
+      "Krebs cycle",
+      "Oxidative phosphorylation",
+      "Fermentation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "text": "What is the main component of the cell membrane?",
+    "options": [
+      "Carbohydrates",
+      "Lipids",
+      "Proteins",
+      "Nucleic acids"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "text": "Which diagnostic biomarker is most commonly used to monitor diabetes?",
+    "options": [
+      "Cholesterol",
+      "Hemoglobin A1c",
+      "C-reactive protein",
+      "Alkaline phosphatase"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "text": "What is the primary function of the Krebs cycle?",
+    "options": [
+      "To break down glucose into pyruvate",
+      "To produce ATP directly",
+      "To generate electron carriers for the electron transport chain",
+      "To store energy as glycogen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "text": "Which technique is commonly used to separate proteins based on size?",
+    "options": [
+      "PCR",
+      "Chromatography",
+      "Gel electrophoresis",
+      "Spectrophotometry"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "text": "What is the role of coenzymes in enzyme function?",
+    "options": [
+      "They inhibit enzyme activity",
+      "They provide energy for the reaction",
+      "They act as carriers for molecules or electrons",
+      "They change the enzyme’s structure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "text": "Which process converts glucose into two molecules of pyruvate?",
+    "options": [
+      "Glycolysis",
+      "Beta-oxidation",
+      "Krebs cycle",
+      "Gluconeogenesis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "text": "What is the function of hemoglobin in the blood?",
+    "options": [
+      "Transporting oxygen",
+      "Breaking down glucose",
+      "Storing calcium",
+      "Regulating blood pressure"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "text": "What is the main role of insulin in the body?",
+    "options": [
+      "Break down fats",
+      "Regulate blood glucose levels",
+      "Control water balance",
+      "Transport oxygen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "text": "What type of molecule is cholesterol?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Lipid",
+      "Nucleic acid"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "text": "What is the byproduct of anaerobic respiration in muscles?",
+    "options": [
+      "Carbon dioxide",
+      "Lactic acid",
+      "Ethanol",
+      "Glucose"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "text": "Which element is a key component of hemoglobin?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Magnesium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "text": "Which biochemical marker indicates liver function?",
+    "options": [
+      "Hemoglobin A1c",
+      "Alanine aminotransferase (ALT)",
+      "Creatinine",
+      "Troponin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "text": "What is the primary storage form of glucose in the body?",
+    "options": [
+      "Starch",
+      "Sucrose",
+      "Glycogen",
+      "Fructose"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "text": "Which nucleic acid is primarily responsible for protein synthesis?",
+    "options": [
+      "DNA",
+      "mRNA",
+      "tRNA",
+      "rRNA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "text": "What is the primary function of lipids in cells?",
+    "options": [
+      "To store genetic information",
+      "To provide quick energy",
+      "To form cell membranes and store energy",
+      "To catalyze biochemical reactions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "text": "Which hormone regulates calcium levels in the blood?",
+    "options": [
+      "Insulin",
+      "Parathyroid hormone",
+      "Glucagon",
+      "Cortisol"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "text": "Which organ is primarily responsible for detoxification of blood?",
+    "options": [
+      "Kidneys",
+      "Liver",
+      "Pancreas",
+      "Lungs"
+    ],
+    "correctAnswer": 1
+  }
+]
+
+      },
+
+
+
+
+      "3": {
+        "courseId": "3",
+        "questions": [
+  {
+    "id": 1,
+    "text": "Which principle emphasizes doing no harm to patients?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Non-maleficence",
+      "Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "text": "What is informed consent primarily designed to protect?",
+    "options": [
+      "Doctor's liability",
+      "Patient autonomy",
+      "Hospital policies",
+      "Medical records"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "text": "Which is NOT one of the four main principles of medical ethics?",
+    "options": [
+      "Justice",
+      "Autonomy",
+      "Efficiency",
+      "Beneficence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "text": "What does the principle of beneficence require healthcare professionals to do?",
+    "options": [
+      "Do good for the patient",
+      "Respect patient autonomy",
+      "Prevent harm",
+      "Treat all patients equally"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "text": "Which principle relates to fairness and equal access to healthcare?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Non-maleficence",
+      "Justice"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "text": "Which of the following is an example of a medical ethical dilemma?",
+    "options": [
+      "A doctor explaining a diagnosis",
+      "A nurse administering medication",
+      "Deciding whether to provide treatment to an uninsured patient",
+      "A patient choosing their treatment plan"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "text": "The right to make decisions about one's own healthcare is based on which principle?",
+    "options": [
+      "Autonomy",
+      "Justice",
+      "Beneficence",
+      "Non-maleficence"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "text": "Which of the following is a key aspect of professional responsibility in healthcare?",
+    "options": [
+      "Respecting patient privacy",
+      "Prioritizing efficiency",
+      "Maximizing hospital profits",
+      "Minimizing treatment costs"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "text": "Which ethical issue involves balancing the use of medical resources during a crisis?",
+    "options": [
+      "End-of-life decisions",
+      "Resource allocation",
+      "Patient autonomy",
+      "Medical confidentiality"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "text": "In the context of medical ethics, what does confidentiality refer to?",
+    "options": [
+      "The patient's right to choose their treatment",
+      "The healthcare provider's obligation to keep patient information private",
+      "The doctor’s duty to provide the best care",
+      "The nurse’s responsibility to inform the family"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "text": "What ethical principle is concerned with the fair distribution of medical resources?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Justice",
+      "Non-maleficence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "text": "What is the main ethical concern in the use of experimental treatments?",
+    "options": [
+      "Informed consent",
+      "Cost of treatment",
+      "The availability of resources",
+      "Government regulation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "text": "Which of the following best represents an ethical challenge in global healthcare?",
+    "options": [
+      "Privacy of medical records",
+      "Medical tourism",
+      "Access to essential medicines in low-income countries",
+      "Health insurance policies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "text": "What does the principle of autonomy primarily involve?",
+    "options": [
+      "Ensuring fairness in treatment",
+      "Respecting a patient's right to make decisions about their care",
+      "Preventing harm during medical procedures",
+      "Providing the most effective treatment possible"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "text": "What is a common challenge in balancing autonomy and beneficence?",
+    "options": [
+      "A patient's wish to refuse life-saving treatment",
+      "Ensuring all patients receive equal treatment",
+      "Providing expensive medications",
+      "Allocating healthcare resources"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "text": "Which ethical issue is raised when a healthcare provider acts in a patient's best interest despite their refusal of treatment?",
+    "options": [
+      "Informed consent",
+      "Non-maleficence",
+      "Paternalism",
+      "Justice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "text": "The ethical principle that ensures patients' information is not shared without their consent is called:",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Justice",
+      "Confidentiality"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "text": "Which ethical issue arises when dealing with genetic testing and the potential for discrimination?",
+    "options": [
+      "Privacy",
+      "Confidentiality",
+      "Autonomy",
+      "Justice"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "text": "What ethical principle involves the responsibility of healthcare providers to avoid causing harm?",
+    "options": [
+      "Non-maleficence",
+      "Beneficence",
+      "Autonomy",
+      "Justice"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "text": "What does the principle of beneficence primarily involve?",
+    "options": [
+      "Avoiding harm to patients",
+      "Providing the most effective care",
+      "Ensuring fairness in healthcare distribution",
+      "Respecting patients' right to make their own decisions"
+    ],
+    "correctAnswer": 1
+  }
+]
+
+      },
+      "4": {
+        "courseId": "4",
+        "questions": [
+  {
+    "id": 1,
+    "text": "What is the body's first line of defense against pathogens?",
+    "options": [
+      "Antibodies",
+      "White blood cells",
+      "Physical barriers",
+      "Fever"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "text": "Which type of cell death is programmed?",
+    "options": [
+      "Necrosis",
+      "Apoptosis",
+      "Autophagy",
+      "Oncosis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "text": "What is the primary function of inflammation?",
+    "options": [
+      "To cause pain",
+      "To increase blood flow",
+      "To protect and heal tissue",
+      "To raise body temperature"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "text": "Which of the following diseases is a result of chronic inflammation?",
+    "options": [
+      "Asthma",
+      "Pneumonia",
+      "Tuberculosis",
+      "Chickenpox"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "text": "Which of these is an example of a benign neoplasm?",
+    "options": [
+      "Breast cancer",
+      "Melanoma",
+      "Lipoma",
+      "Leukemia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "text": "What is a hallmark of neoplasia?",
+    "options": [
+      "Controlled growth",
+      "Uncontrolled cell division",
+      "Cell apoptosis",
+      "Stable tissue structure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "text": "What type of immunity involves memory cells that remember past infections?",
+    "options": [
+      "Innate immunity",
+      "Adaptive immunity",
+      "Acquired immunity",
+      "Passive immunity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "text": "Which of these conditions is an example of a metabolic disorder?",
+    "options": [
+      "Diabetes mellitus",
+      "Asthma",
+      "Hepatitis",
+      "Tuberculosis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "text": "Which of the following is a characteristic of acute inflammation?",
+    "options": [
+      "Slow onset",
+      "Presence of granulomas",
+      "Resolution within a few days",
+      "Chronic tissue damage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "text": "Which system is primarily affected in autoimmune diseases?",
+    "options": [
+      "Respiratory system",
+      "Nervous system",
+      "Immune system",
+      "Circulatory system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "text": "Which type of cell is responsible for producing antibodies?",
+    "options": [
+      "B cells",
+      "T cells",
+      "Macrophages",
+      "Dendritic cells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "text": "What is the role of neutrophils in the immune response?",
+    "options": [
+      "To produce antibodies",
+      "To fight bacterial infections",
+      "To attack cancer cells",
+      "To neutralize toxins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "text": "Which of these is a typical sign of inflammation?",
+    "options": [
+      "Decreased heart rate",
+      "Heat, redness, swelling, and pain",
+      "Shivering",
+      "Low blood pressure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "text": "Which of the following is a common cause of chronic inflammation?",
+    "options": [
+      "Short-term viral infection",
+      "Autoimmune diseases",
+      "Acute injury",
+      "Bacterial infections"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "text": "Which of the following is NOT a feature of cancer cells?",
+    "options": [
+      "Uncontrolled growth",
+      "Loss of differentiation",
+      "Apoptosis",
+      "Ability to invade surrounding tissues"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "text": "Which of the following can trigger an inflammatory response in the body?",
+    "options": [
+      "Bacterial infections",
+      "Emotional stress",
+      "Exercise",
+      "Low-fat diet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "text": "Which of the following is a common risk factor for cancer development?",
+    "options": [
+      "High intake of fruits and vegetables",
+      "Exposure to carcinogens",
+      "Regular exercise",
+      "Low fat diet"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "text": "What is the main characteristic of autoimmune diseases?",
+    "options": [
+      "The immune system attacks the body’s own cells",
+      "The immune system becomes deficient",
+      "The immune system becomes hyperactive",
+      "The immune system fails to respond to infections"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "text": "Which of the following is a major factor in the development of atherosclerosis?",
+    "options": [
+      "High blood cholesterol levels",
+      "Low blood pressure",
+      "Exercise",
+      "Low-fat diet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "text": "What is the primary function of the lymphatic system?",
+    "options": [
+      "Transport oxygen",
+      "Remove waste products",
+      "Circulate hormones",
+      "Fight infections"
+    ],
+    "correctAnswer": 3
+  }
+        ]
+      },
+    "5": {
+      "courseId": "5",
+        "questions": [
+          {
+            "id": 1,
+            "text": "What is the primary goal of initial assessment and triage in emergency care?",
+            "options": [
+              "To determine the severity of the condition and prioritize care",
+              "To diagnose the condition",
+              "To provide long-term care options",
+              "To discharge the patient"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 2,
+            "text": "Which of the following is a key component of advanced life support (ALS)?",
+            "options": [
+              "Antibiotic therapy",
+              "CPR and defibrillation",
+              "Psychiatric management",
+              "Physical therapy"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 3,
+            "text": "In trauma management, what is the first step in patient stabilization?",
+            "options": [
+              "Control bleeding",
+              "Administer pain medication",
+              "Provide wound care",
+              "Perform diagnostic imaging"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 4,
+            "text": "What is the role of pharmacological interventions in emergency medicine?",
+            "options": [
+              "To prevent all diseases",
+              "To provide pain management, antiarrhythmics, and sedatives in critical care",
+              "To cure long-term conditions",
+              "To conduct diagnostic testing"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 5,
+            "text": "Which diagnostic tool is commonly used in emergency settings?",
+            "options": [
+              "X-ray",
+              "MRI",
+              "CT scan",
+              "All of the above"
+            ],
+            "correctAnswer": 3
+          },
+          {
+            "id": 6,
+            "text": "What is the purpose of communication training in emergency medicine?",
+            "options": [
+              "To learn how to manage financial resources",
+              "To develop skills for communicating in high-stress environments",
+              "To ensure accurate record-keeping",
+              "To improve physical skills"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 7,
+            "text": "Which of these is part of the management of respiratory emergencies?",
+            "options": [
+              "Administering sedatives",
+              "Performing CPR",
+              "Mechanical ventilation and airway management",
+              "Blood transfusion"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 8,
+            "text": "What is the first line of treatment for sepsis in an emergency department?",
+            "options": [
+              "Pain management",
+              "Antibiotic therapy",
+              "Psychiatric counseling",
+              "Electroshock therapy"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 9,
+            "text": "How should psychiatric emergencies be handled in an emergency department?",
+            "options": [
+              "By using restraint immediately",
+              "By escalating the situation",
+              "By de-escalating and referring for further care",
+              "By providing long-term psychiatric therapy"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 10,
+            "text": "What does triage refer to in emergency care?",
+            "options": [
+              "Determining which patients are most likely to survive",
+              "Providing immediate discharge instructions",
+              "Prioritizing care based on the severity of conditions",
+              "Providing psychological support to patients"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 11,
+            "text": "What type of care is provided by paramedics in pre-hospital emergency settings?",
+            "options": [
+              "Routine medical check-ups",
+              "Initial care and stabilization before reaching the hospital",
+              "Long-term rehabilitation",
+              "Surgical interventions"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 12,
+            "text": "Which of the following is NOT a primary focus in disaster response and mass casualty incidents?",
+            "options": [
+              "Triage and resource allocation",
+              "Team management",
+              "Providing elective surgeries",
+              "Ensuring rapid patient transport"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 13,
+            "text": "What is the key focus in critical care units in emergency medicine?",
+            "options": [
+              "Performing routine diagnostic tests",
+              "Monitoring critically ill patients and managing complex cases",
+              "Providing long-term rehabilitation",
+              "Administering preventive vaccines"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 14,
+            "text": "What should be the first step in the management of trauma patients?",
+            "options": [
+              "Administer medication",
+              "Provide surgical intervention",
+              "Assess and stabilize the patient",
+              "Prepare for discharge"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 15,
+            "text": "Which of the following is an example of an emergency procedure?",
+            "options": [
+              "Administering routine check-ups",
+              "Handling mass casualty incidents",
+              "Elective surgeries",
+              "Routine physiotherapy"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 16,
+            "text": "What is the role of a defibrillator in advanced life support?",
+            "options": [
+              "To provide pain relief",
+              "To restore normal heart rhythm in patients experiencing cardiac arrest",
+              "To monitor blood pressure",
+              "To diagnose infections"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 17,
+            "text": "Which of the following is a key aspect of managing cardiac arrest in an emergency setting?",
+            "options": [
+              "Administering antibiotics",
+              "Providing immediate CPR and defibrillation",
+              "Giving sedation therapy",
+              "Performing routine diagnostic imaging"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 18,
+            "text": "What is the primary role of emergency medicine in intensive care settings?",
+            "options": [
+              "Elective surgery",
+              "Performing long-term patient rehabilitation",
+              "Providing intensive monitoring and management of critically ill patients",
+              "Routine preventive care"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 19,
+            "text": "Which of the following is a common complication associated with trauma patients?",
+            "options": [
+              "Chronic illness",
+              "Bleeding, shock, and infection",
+              "Diabetes",
+              "Hypertension"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 20,
+            "text": "Which of the following is part of the training for managing trauma patients in emergency settings?",
+            "options": [
+              "Chest compressions and wound care",
+              "Dietary interventions",
+              "Administering vaccines",
+              "Psychiatric therapy"
+            ],
+            "correctAnswer": 0
+          }
+        ]
+    },
+    "6": {
+      "courseId": "6",
+        "questions": [
+          {
+            "id": 1,
+            "text": "What is medical research methodology?",
+            "options": [
+              "A study of medical treatments",
+              "A systematic approach to conducting medical research",
+              "A field of studying disease mechanisms",
+              "A method of diagnosing medical conditions"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 2,
+            "text": "What is a randomized controlled trial (RCT)?",
+            "options": [
+              "A study where patients are randomly assigned to different treatments",
+              "A study comparing different treatment outcomes in one group",
+              "A trial where no control group is used",
+              "A survey-based research method"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 3,
+            "text": "What is the main purpose of a cohort study?",
+            "options": [
+              "To analyze the cause-effect relationship between exposures and outcomes",
+              "To test a hypothesis using randomized methods",
+              "To study a specific medical condition",
+              "To evaluate the quality of medical services"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 4,
+            "text": "Which of the following is a key feature of a case-control study?",
+            "options": [
+              "Observing subjects over a long period of time",
+              "Comparing individuals with and without a condition",
+              "Randomly assigning treatment groups",
+              "Studying only laboratory-based data"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 5,
+            "text": "What is the importance of sample size calculation in medical research?",
+            "options": [
+              "To ensure the research is conducted in a cost-effective manner",
+              "To ensure the study has enough power to detect a true effect",
+              "To reduce the time of the study",
+              "To make the research process more ethical"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 6,
+            "text": "What is the role of randomization in clinical trials?",
+            "options": [
+              "To assign participants to treatment groups based on clinical needs",
+              "To ensure the treatment is administered equally to all participants",
+              "To eliminate bias in the allocation of treatments",
+              "To focus on a specific disease type"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 7,
+            "text": "What is informed consent in the context of medical research?",
+            "options": [
+              "The researcher's agreement to conduct the study",
+              "The process of explaining the study to participants and obtaining their consent",
+              "The participants' legal right to participate in any research",
+              "The ethical review board's decision to approve the study"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 8,
+            "text": "Which of these is an example of a longitudinal study?",
+            "options": [
+              "A study of disease prevalence at a single point in time",
+              "A survey-based study conducted at a specific location",
+              "A study following the same group of individuals over time",
+              "An experiment testing a new drug on a group of participants"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 9,
+            "text": "What is blinding in clinical trials?",
+            "options": [
+              "Providing participants with full information about the study",
+              "Ensuring that the researcher knows the treatment assigned",
+              "Preventing participants and researchers from knowing the treatment assignment",
+              "Offering incentives to participants"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 10,
+            "text": "What does statistical significance in medical research indicate?",
+            "options": [
+              "The results are purely random",
+              "The results are likely due to the intervention rather than chance",
+              "The results are always clinically meaningful",
+              "The study has been conducted ethically"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 11,
+            "text": "What is a meta-analysis?",
+            "options": [
+              "A study that focuses on a single clinical trial",
+              "A method of combining results from multiple studies to draw a conclusion",
+              "A study that tests new medical treatments",
+              "An ethical review of a research study"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 12,
+            "text": "What is a hypothesis in medical research?",
+            "options": [
+              "A proven conclusion from the study",
+              "A statement or prediction that can be tested",
+              "A method of analyzing data",
+              "A summary of the research findings"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 13,
+            "text": "Which type of bias occurs when participants are selected based on non-random factors?",
+            "options": [
+              "Selection bias",
+              "Observer bias",
+              "Recall bias",
+              "Measurement bias"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 14,
+            "text": "What is the purpose of a control group in an experimental study?",
+            "options": [
+              "To receive a placebo or standard treatment for comparison",
+              "To provide informed consent",
+              "To participate in the data analysis",
+              "To test the hypothesis directly"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 15,
+            "text": "What is the function of the Institutional Review Board (IRB) in medical research?",
+            "options": [
+              "To approve or reject research protocols based on ethical standards",
+              "To select participants for a study",
+              "To conduct the research",
+              "To analyze the results of a study"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 16,
+            "text": "What is the main limitation of observational studies?",
+            "options": [
+              "They are often randomized",
+              "They cannot establish cause-and-effect relationships",
+              "They involve a control group",
+              "They are always ethically questionable"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 17,
+            "text": "What is the primary goal of epidemiology in medical research?",
+            "options": [
+              "To develop new drugs",
+              "To study the distribution and determinants of health-related events",
+              "To test medical hypotheses",
+              "To design clinical trials"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 18,
+            "text": "What is the significance of power analysis in medical research?",
+            "options": [
+              "To determine the sample size needed to detect an effect",
+              "To analyze the power of an institution",
+              "To evaluate the quality of the data",
+              "To compare the power of different treatments"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "id": 19,
+            "text": "What is an observational study?",
+            "options": [
+              "A study where researchers manipulate variables",
+              "A study that only observes participants without intervening",
+              "A study that provides informed consent",
+              "A study based on clinical trials"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 20,
+            "text": "What does 'double-blind' mean in the context of a clinical trial?",
+            "options": [
+              "Both the participants and the researchers are unaware of the treatment assignments",
+              "Only the researchers are unaware of the treatment assignments",
+              "Only the participants are unaware of the treatment assignments",
+              "The trial is conducted in two stages"
+            ],
+            "correctAnswer": 0
+          }
+        ]     
+    }
+  }
+}
+
+ 
