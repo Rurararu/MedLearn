@@ -11,7 +11,7 @@ import { ProtectedRoute } from './components/ProtectedRoute';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/MedLearn/'>
       <div className="min-h-screen bg-gray-50">
         <Header />
         <Routes>
